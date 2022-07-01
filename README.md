@@ -1,4 +1,4 @@
-# repoUpdater
+# RepoUpdater
 
 # Summary
 
