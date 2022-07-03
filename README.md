@@ -1,6 +1,7 @@
 # RepoUpdater
 
 # Summary
+Updates all Github Repo's in specified path.
 
 <div>
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/andykr1k/repoUpdater?&style=for-the-badge"/>
